@@ -1,0 +1,19 @@
+File Operation Logger write: place_limit_orders.py
+write: binance_repo_url.txt
+write: bitcoin_price_chart.txt
+write: training_resources.txt
+write: crypto_trading_strategy.py
+write: bollinger_bands_code.py
+write: modified_bollinger_bands_code.py
+write: moving_average.py
+write: reliable_sources.txt
+write: technical_indicators.txt
+write: indicators.txt
+write: crypto_analysis_guidance.txt
+write: bitcoin_news.txt
+write: crypto_analysis.txt
+write: crypto_script.py
+write: error_log.txt
+write: clone_path.txt
+append: technical_indicators.txt
+write: crypto_trading.py

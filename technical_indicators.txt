@@ -1,0 +1,15 @@
+Moving Average: (Sum of Prices for n periods) / n
+Relative Strength Index (RSI): 100 - [100 / (1 + (Average Gain / Average Loss))]
+Bollinger Bands: Middle Band = n-period moving average
+Upper Band = Middle Band + (k * n-period standard deviation)
+Lower Band = Middle Band - (k * n-period standard deviation)
+1. Moving Averages
+2. Relative Strength Index (RSI)
+3. Bollinger Bands
+4. On-Balance-Volume (OBV)
+5. Ichimoku Cloud
+6. Moving Average Convergence Divergence (MACD)
+7. Fibonacci Retracement
+8. Stochastic Oscillator
+9. Aroon Indicator
+10. On-Chain Metrics

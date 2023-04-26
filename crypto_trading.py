@@ -1,0 +1,1 @@
+import subprocess\nsubprocess.run(['pip', 'install', 'ccxt'])

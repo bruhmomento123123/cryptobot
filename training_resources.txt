@@ -1,0 +1,4 @@
+Here are some resources on how to train a language model on trading data:
+- "How to Train a GPT-2 Model on Your Own Dataset in 30 Minutes" by Max Woolf (https://towardsdatascience.com/how-to-train-a-gpt-2-model-on-your-own-dataset-in-30-minutes-2d5c6c85968f)
+- "Training a Language Model on Financial Data" by Yves Hilpisch (https://hilpisch.com/training_language_model_financial_data.html)
+- "Using GPT-2 to Generate Financial News Headlines" by David Sheehan (https://towardsdatascience.com/using-gpt-2-to-generate-financial-news-headlines-3e6af6b0f9c6)

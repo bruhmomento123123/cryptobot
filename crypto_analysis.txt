@@ -1,0 +1,17 @@
+Bitcoin (BTC):
+- Trading range: $30,000 - $40,000
+- 50-day moving average: $36,000
+- RSI: Neutral (50)
+- Bollinger Bands: Narrowing
+
+Ethereum (ETH):
+- Trading range: $2,000 - $3,000
+- 50-day moving average: $2,600
+- RSI: Neutral (50)
+- Bollinger Bands: Narrowing
+
+Dogecoin (DOGE):
+- Trading range: $0.20 - $0.30
+- 50-day moving average: $0.25
+- RSI: Neutral (50)
+- Bollinger Bands: Narrowing

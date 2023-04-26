@@ -1,0 +1,2 @@
+Link to article: https://towardsdatascience.com/building-a-comprehensive-set-of-technical-indicators-in-python-for-quantitative-trading-8d98751b5fb
+List of technical indicators: Simple Moving Average, Average True Range, Stochastic Oscillators, Relative Strength Index, Moving Average Convergence Divergence, Bollinger Bands, and Rate of Change.
