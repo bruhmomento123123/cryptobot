@@ -17,3 +17,7 @@ write: error_log.txt
 write: clone_path.txt
 append: technical_indicators.txt
 write: crypto_trading.py
+write: commands.txt
+write: commands.py
+write: repository_url.txt
+write: binance_api_key.txt
